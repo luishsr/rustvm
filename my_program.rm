@@ -1,0 +1,13 @@
+Input y
+GET y
+Input x
+GET x
+ADD Var("x") Var("y")
+PRINT
+IF
+    GET x
+    PRINT
+ELSE
+    GET y
+    PRINT
+ENDIF
