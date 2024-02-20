@@ -1,4 +1,4 @@
-`# Rust Virtual Machine
+# Rust Virtual Machine
 
 This is a simple virtual machine implemented in Rust. It supports a set of instructions for basic arithmetic operations, conditional execution (`IF/ELSE`), reading user input, and variable management.
 
